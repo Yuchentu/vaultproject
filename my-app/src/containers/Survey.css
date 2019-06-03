@@ -1,0 +1,11 @@
+@media all and (min-width: 480px) {
+  .Survey {
+    padding: 60px 0;
+  }
+
+  .Survey form {
+    margin: 0 auto;
+    max-width: 150px;
+  }
+}
+
